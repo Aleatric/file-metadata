@@ -11,3 +11,11 @@ This is a simple metadata microservice that extracts metadata from uploaded file
 2. Retrieve Metadata:
    - After uploading the file, the microservice will process it.
    - Once processing is complete, the metadata will be displayed in JSON format on the page.
+
+## Technology Used
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- Multer
